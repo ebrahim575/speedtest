@@ -1,0 +1,2 @@
+spotify client ID = e7398f843f1a48bab3d2c197aa795d2c
+Client Secret = a61a9e487e0b45e1a014696b221bb77b

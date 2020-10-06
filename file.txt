@@ -1,0 +1,10 @@
+Date and Time = 07/25/2020 11:40:32
+Download: 50.41 Mb/s
+Upload: 14.58 Mb/s
+Ping: 22.423
+
+Date and Time = 07/25/2020 11:42:29
+Download: 52.14 Mb/s
+Upload: 12.49 Mb/s
+Ping: 25.416
+
